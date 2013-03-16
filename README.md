@@ -1,17 +1,9 @@
-Gumby Framework
-=====================
-*FLEXIBLE. FUN. FAMILIAR.*
+Gumby version 2 has arrived!
+============================
 
-The best fluid-fixed CSS framework you’ve always used. More information and documentation can be found at
-[http://gumbyframework.com](http://gumbyframework.com)
+Gumby Framework version 2 has been released and we have moved all development to our new [GitHub organisation](https://github.com/GumbyFramework/).
+Although we will attempt to answer any issues, this repo will no longer be maintained. We recommend you upgrade to version two and check out some of our awesome new features!
 
+Clone Gumby Framework version 2 - https://github.com/GumbyFramework/gumby
 
-Gumby is developed with love by your friends at [Digital Surgeons](http://www.digitalsurgeons.com).  
-
-**MIT Open Source License**
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Check out the cool updates and read the documentation - http://gumbyframework.com/
